@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DoctrineUserRepositoryTest::testSaveAndFindUser":8,"DoctrineUserRepositoryTest::testDeleteUser":8,"EmailTest::testValidEmail":8,"EmailTest::testInvalidEmail":8},"times":{"EmailTest::testValidEmail":0.001,"EmailTest::testInvalidEmail":0.003}}

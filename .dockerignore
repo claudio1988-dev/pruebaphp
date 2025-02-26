@@ -1,0 +1,17 @@
+# Ignorar la carpeta vendor (dependencias de Composer)
+vendor/
+
+# Ignorar la carpeta mysql-data (datos de MySQL)
+mysql-data/
+
+# Ignorar archivos de caché de PHPUnit
+.phpunit.result.cache
+
+# Ignorar archivos de entorno (si los tienes)
+.env
+
+# Ignorar archivos de configuración local (si los tienes)
+config/local.php
+
+
+

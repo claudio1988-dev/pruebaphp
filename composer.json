@@ -1,0 +1,22 @@
+{
+    "name": "claudio/prueba-php",
+    "autoload": {
+        "psr-4": {
+            "Claudio\\PruebaPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "claudio",
+            "email": "claudio.datos@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "require": {
+        "doctrine/orm": "^3.3",
+        "symfony/cache": "^7.2",
+        "doctrine/dbal": "^4.2"
+    }
+}
